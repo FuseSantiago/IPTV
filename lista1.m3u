@@ -1,0 +1,82 @@
+#EXTINF:-1,[COLOR blue]ARGENTINA[/COLOR]
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="ARGENTINA", TN Canal 13 (Argentina)
+rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="ARGENTINA", TN 24 Horas (Argentina)
+rtsp://stream.tn.com.ar/live/tnhd1
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="ARGENTINA", C5N (Argentina)
+rtmp://c5n.stweb.tv/c5n/live
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="ARGENTINA", AyM Sports
+http://200.76.77.237/LIVE/H01/CANAL576/PROFILE05.m3u8?
+
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="ARGENTINA", Arg:CANAL 13 HD
+rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="ARGENTINA", Arg:Canal Rural 1 HD
+rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural1
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="ARGENTINA", Arg:Quiero Musica mms
+mms://200.42.92.6:1755/qmusica
+
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="ARGENTINA", Arg:MAGAZINE
+rtmp://stream.mgzn.tv/live/mgzntv/mgzntv playpath=mgzntv swfUrl=http://www.mgzn.tv/sites/all/themes/magazine/images/player.swf live=1 pageUrl=http://www.mgzn.tv/vivo
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="ARGENTINA", Arg:DISCOVERY
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="ARGENTINA", Arg:EL TRECE HD
+rtmp://stream.eltrecetv.com.ar/live13/13tv/13tv1 playpath=13tv1 swfUrl=http://cdn.eltrecetv.com.ar/sites/all/libraries/jwplayer/player.swf pageUrl=http://www.eltrecetv.com.ar/vivo live=1
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="ARGENTINA", Arg:DEPORTV HD
+rtmp://sl100tb.cxnlive.com/live/deportv.stream
+
+#EXTINF:-1 ,Arg:C5N
+rtmp://c5n.stweb.tv:1935/c5n/live
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="ARGENTINA", TeleMax (Argentina)
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="ARGENTINA", CN23
+http://190.210.73.129:1941/ar/test/chunks.m3u8?nimblesessionid=340566&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM1OjU5IFBNJmhhc2hfdmFsdWU9Z3o5TWJNcVFwdjFPTUFXSGMxeHlSUT09JnZhbGlkbWludXRlcz0y
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="ARGENTINA", DeportTV
+http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E1Q1NnSEtnZXJzQjBNQ0Y5dz09JnZhbGlkbWludXRlcz0yMA==
+
+#EXTINF:0,tvg-id="TyC Sports HD" tvg-name=TyC Sports HD" tvg-logo="tycsports.png" group-title="Deportes",TyC Sports
+http://38.95.112.2/tyc-edge/live/master.m3u8
+
+
+#EXTINF:-1,TELEFE
+rtmp://podi.hopper.pw:443/live/live_beto_3
+#EXTINF:-1,CHESPIRITO
+rtmp://podi.hopper.pw:443/live/live_chespirito_mania
+
+#EXTINF:-1,MEGA KIDS
+rtmp://podi.hopper.pw:443/live/live_mega_kids
+#EXTINF:-1,CABALLEROS DEL ZODIACO
+rtmp://podi.hopper.pw:443/live/live_animetoontv
+#EXTINF:-1,MEGA SIMPSON
+rtmp://podi.hopper.pw:443/live/live_mega_simpson
+#EXTINF:-1,TELEMUNDO 29
+rtmp://podi.hopper.pw:443/live/live_telemundo29
+#EXTINF:-1,TELEMUNDO 34
+rtmp://podi.hopper.pw:443/live/live_telemundo34
+#EXTINF:-1,TELEMUNDO 35
+rtmp://podi.hopper.pw:443/live/live_telemundo35
+#EXTINF:-1,UNIVISION
+rtmp://podi.hopper.pw:443/live/live_univision_hd30
+#EXTINF:-1,UNIVISION 41 NY
+rtmp://podi.hopper.pw:443/live/live_univision41ny
+#EXTINF:-1,UNIVERSAL MOVIES
+rtmp://podi.hopper.pw:443/live/live_universal_movies
+#EXTINF:-1,TyCsports
+rtmp://podi.hopper.pw:443/live/live_afatv1
+#EXTINF:-1,UNIMAS
+rtmp://podi.hopper.pw:443/live/live_unimas12
+#EXTINF:-1,AMERICA TV
+rtmp://podi.hopper.pw:443/live/live_elyamato
